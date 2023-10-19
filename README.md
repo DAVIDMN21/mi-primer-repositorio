@@ -1,1 +1,1 @@
-# mi-primer-repositorio
+En la nueva version futbolito-soccer se podra administrar mejor la puntuacion de los equipos de la liga "futbolito-soccer" tanto la suma y perdida de puntos
